@@ -34,14 +34,15 @@ Object detection using cv2.matchTemplate and custom template matching algorithm
 
 ## Results
 
+<p align="center">
+<img width="90%" src="Input/Detected_orreletion.jpg" />
+<br>
+Figure 1. <b>Correletion</b> 
+</p>
 
-<table>
-  <tr>
-    <td>Correletion</td>
-     <td>Intersection</td>
-  </tr>
-  <tr>
-    <td valign="top"><img width="100%" src="Input/Detected_orreletion.jpg"></td>
-    <td valign="top"><img width="100%" src="Input/Intersection.jpg"></td>
-  </tr>
- </table>
+<p align="center">
+<img width="90%" src="Input/Intersection.jpg" />
+<br>
+Figure 2. <b>Intersection</b> 
+</p>
+
